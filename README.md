@@ -2,7 +2,7 @@
 
 <h2> About: </h2>
 <p>This was a simple photo gallery project I worked on during the Core Curriculm at <a href='https://launchschool.com'>Launch School</a>.</p>
-<p>The project was designed to test a student's ability to interact with a simple, mock API and update the UI asynchronously</p>
+<p>The project was designed to test a student's ability to interact with a simple API and update the UI asynchronously</p>
 <p>The focus of the project was on updating the UI and making AJAX requests. There is no DB in this project. All changes/ updates made while running the demo will be lost once the app is closed</p>
 
 <h3>Technologies Used</h3>
